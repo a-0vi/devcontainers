@@ -7,7 +7,7 @@ Cilium CLI
 
 ```json
 "features": {
-    "ghcr.io/audacioustux/devcontainers/cilium:1": {}
+    "ghcr.io/a-0vi/devcontainers/cilium:1": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Cilium CLI
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/audacioustux/devcontainers/blob/main/src/cilium/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/a-0vi/devcontainers/blob/main/src/cilium/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
