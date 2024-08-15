@@ -7,7 +7,7 @@ SAM CLI with ARM64 support
 
 ```json
 "features": {
-    "ghcr.io/audacioustux/devcontainers/aws-sam-cli:1": {}
+    "ghcr.io/a-0vi/devcontainers/aws-sam-cli:1": {}
 }
 ```
 
@@ -23,4 +23,4 @@ SAM CLI with ARM64 support
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/audacioustux/devcontainers/blob/main/src/aws-sam-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/a-0vi/devcontainers/blob/main/src/aws-sam-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
